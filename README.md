@@ -1,0 +1,1 @@
+# tridex_config
